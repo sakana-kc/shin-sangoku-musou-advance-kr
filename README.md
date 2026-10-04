@@ -6,7 +6,7 @@ GBA 『真・三國無双 Advance』(일본판)를 한국어로 즐길 수 있�
 
 ## 다운로드
 
-[Releases](../../releases) 에서 `DWA_KR_v0.9beta.zip` 을 받으세요.
+**[DWA_KR_v0.9beta.zip 내려받기](https://github.com/sakana-kc/shin-sangoku-musou-advance-kr/raw/main/download/DWA_KR_v0.9beta.zip)**
 이 저장소에는 패치(.bps)만 있으며 **게임 롬은 포함되어 있지 않습니다.** 롬을 공유하거나 요청하지 마세요.
 
 ## 필요한 원본
