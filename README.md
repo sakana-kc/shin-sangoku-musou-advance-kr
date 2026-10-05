@@ -2,7 +2,7 @@
 
 GBA 『真・三國無双 Advance』(일본판)를 한국어로 즐길 수 있게 하는 비공식 팬 한글 패치입니다.
 
-> **v0.9 베타** · 대부분의 화면을 확인했지만 엔딩 등 일부는 직접 플레이로 확인하지 못했습니다.
+> **v0.9.1 베타** · 대부분의 화면을 확인했지만 엔딩 등 일부는 직접 플레이로 확인하지 못했습니다.
 
 ## 다운로드
 
@@ -25,20 +25,25 @@ RomPatcher.js에 롬을 넣으면 CRC32·MD5·SHA-1이 표시되니 위 표와 �
 ## 적용 방법
 
 1. [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) 를 엽니다 (Floating IPS도 가능).
-2. "ROM file"에 일본판 롬, "Patch file"에 `ShinSangokuMusouAdvance_KR_v0.9beta.bps` 를 넣고 적용합니다.
+2. "ROM file"에 일본판 롬, "Patch file"에 `ShinSangokuMusouAdvance_KR_v0.9.1beta.bps` 를 넣고 적용합니다.
 3. 만들어진 파일의 값이 아래 '패치 후 롬' 표와 같으면 정상입니다.
 
-## 패치 후 롬 (v0.9 베타)
+## 패치 후 롬 (v0.9.1 베타)
 
 | 항목 | 값 |
 |---|---|
 | 크기 | 16,777,216 바이트 |
-| CRC32 | `7C8AA693` |
-| MD5 | `f758abbb0b3f9a6998ca99d1c7d3b408` |
-| SHA-1 | `9361c2a3915e4f7c80f926862d29da8c4be868fb` |
-| SHA-256 | `eb3fbf6c85f2f157b8abd495cef4e834eb7ec3f2c16bd5f420cb2aa84d460a77` |
+| CRC32 | `8DB480B5` |
+| MD5 | `3ab855eaf8b58e8055254b49e06b84ab` |
+| SHA-1 | `5c97433d59aa1bbe5e6cbecb332f79b6961920b0` |
+| SHA-256 | `687d8d42995214d8523cbb48ef1b37b37ceee9174dadb007f008f997ac6a8d1c` |
 
-패치 파일 `ShinSangokuMusouAdvance_KR_v0.9beta.bps` SHA-256: `ff3994c339c65da6e0d7d0896f658643446bdfca395a8adc9f0510be15999e1c`
+패치 파일 `ShinSangokuMusouAdvance_KR_v0.9.1beta.bps` SHA-256: `8b4aae2efa07fc751bf1d878490da71e36a87d651eb5096c7e0b60c94f365c18`
+
+## 변경 내역
+
+- **v0.9.1 베타**: 레벨업 화면과 챌린지 결과 화면 아래 버튼 안내(도움·진행·교체·확인)의 오른쪽 끝이 잘리고 아이콘 밑에 조각이 튀던 문제 수정
+- **v0.9 베타**: 첫 공개 (패치 후 롬 CRC32 `7C8AA693`)
 
 ## 한글화 범위
 
