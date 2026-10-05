@@ -15,13 +15,30 @@ GBA 『真・三國無双 Advance』(일본판)를 한국어로 즐길 수 있�
 |---|---|
 | 게임 | 真・三國無双 Advance (일본판, B36J) |
 | 크기 | 16,777,216 바이트 |
-| CRC32 | FE1BE6C1 |
+| CRC32 | `FE1BE6C1` |
+| MD5 | `b4da8d96a5701f91ef8934ee84b8358f` |
+| SHA-1 | `677cd51c1ecdde73a6f40ec2cd30d35c77db459a` |
+| SHA-256 | `b7be0f80598a37f19ca283f3e4f2525e4bd183c24a455a83af0e6264034e9647` |
+
+RomPatcher.js에 롬을 넣으면 CRC32·MD5·SHA-1이 표시되니 위 표와 비교해 보세요. 미국판(B36E)이나 값이 다른 롬에는 이 패치가 맞지 않습니다.
 
 ## 적용 방법
 
 1. [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) 를 엽니다 (Floating IPS도 가능).
 2. "ROM file"에 일본판 롬, "Patch file"에 `ShinSangokuMusouAdvance_KR_v0.9beta.bps` 를 넣고 적용합니다.
-3. 결과 파일의 CRC32가 **7C8AA693** 이면 정상입니다.
+3. 만들어진 파일의 값이 아래 '패치 후 롬' 표와 같으면 정상입니다.
+
+## 패치 후 롬 (v0.9 베타)
+
+| 항목 | 값 |
+|---|---|
+| 크기 | 16,777,216 바이트 |
+| CRC32 | `7C8AA693` |
+| MD5 | `f758abbb0b3f9a6998ca99d1c7d3b408` |
+| SHA-1 | `9361c2a3915e4f7c80f926862d29da8c4be868fb` |
+| SHA-256 | `eb3fbf6c85f2f157b8abd495cef4e834eb7ec3f2c16bd5f420cb2aa84d460a77` |
+
+패치 파일 `ShinSangokuMusouAdvance_KR_v0.9beta.bps` SHA-256: `ff3994c339c65da6e0d7d0896f658643446bdfca395a8adc9f0510be15999e1c`
 
 ## 한글화 범위
 
