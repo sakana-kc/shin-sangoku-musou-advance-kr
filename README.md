@@ -79,6 +79,8 @@ RomPatcher.js에 롬을 넣으면 CRC32·MD5·SHA-1이 표시되니 위 표와 �
 ## 오류 제보
 
 글자 잘림, 번역 오류, 멈춤 등을 발견하면 [Issues](../../issues) 에 스크린샷과 어느 장면인지 함께 알려 주세요.
+혹은 https://gall.dcinside.com/mgallery/board/view/?id=retrogame&no=231827
+댓글로 제보해 주시면 감사하겠습니다
 
 ## 사용한 글꼴
 
